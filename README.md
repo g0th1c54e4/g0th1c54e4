@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 你好呀
+我是热爱分析代码混淆的研究者，对VMP与相关代码混淆技术的攻防都有涉猎
